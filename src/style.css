@@ -1,5 +1,10 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
-
-body{
-    background: white;
+/*El inline-block hace que se repartan en la misma linea*/
+.spanDominio{
+    display: inline-block;
+  background-color: #dfe6ff;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 14px;
+  border: 1px solid #b5c9ff;
 }
